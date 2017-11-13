@@ -1,4 +1,20 @@
-2017-04-26, Version 3.3.0
+2017-08-21, Version 3.4.1
+=========================
+
+ * Create Issue and PR Templates (#227) (Sakib Hasan)
+
+ * Add CODEOWNER file (Diana Lau)
+
+ * Fix api docs (ssh24)
+
+
+2017-07-04, Version 3.4.0
+=========================
+
+ * Add LDAP properties configuration (nicolas-moteau)
+
+
+2017-04-25, Version 3.3.0
 =========================
 
  * Fix style issue (Raymond Feng)
